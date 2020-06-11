@@ -1,6 +1,12 @@
 
 # [aaaa, abaa, baaa] sequence -> len = 3
 # [[a, b], [b, a], [a], [a]] '[ab]'
+
+# 16.5.5tab(decimal)tabl()tab()
+# regex_for_date = '[0-9]+[.][0-9]+[.][0-9]'
+# regex_for_decimal = '[0-9]+[.][0-9]+[.][0-9]'
+# regex_all = '^' + regex_for_date + '\t' + regex_for_decimal + '$'
+
 import numpy as np;
 
 
